@@ -68,9 +68,6 @@ I believe in lifelong learning and am always eager to explore new technologies a
 ### 📊 GitHub Stats
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan)](https://github.com/anuraghazra/github-readme-stats)
-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=niloyahmadramjan)
-- ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/niloyahmadramjan/contributions?format=svg&private=false)
-
 ---
 
 Thank you for visiting my profile! Let’s connect and collaborate to build something amazing. 😊
