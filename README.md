@@ -1,7 +1,7 @@
+![Profile Picture](https://scontent.fkul19-2.fna.fbcdn.net/v/t39.30808-6/430612317_1772042756609820_1714169358428752605_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CvEpCElg0sEQ7kNvgEZ3OTs&_nc_zt=23&_nc_ht=scontent.fkul19-2.fna&_nc_gid=APGXLANPI9HxlWXEt-f4Jo1&oh=00_AYB_VtwvrHStg0I5ZfuXQRkys9Uxq_DAq5_9Evlr0tWnFQ&oe=678A6B65)
+
 ### Hi there 👋, I'm Ramjan
 #### Junior MERN Stack Developer | Passionate About Web Development
-
-![Profile Picture](https://scontent.fkul19-2.fna.fbcdn.net/v/t39.30808-6/430612317_1772042756609820_1714169358428752605_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CvEpCElg0sEQ7kNvgEZ3OTs&_nc_zt=23&_nc_ht=scontent.fkul19-2.fna&_nc_gid=APGXLANPI9HxlWXEt-f4Jo1&oh=00_AYB_VtwvrHStg0I5ZfuXQRkys9Uxq_DAq5_9Evlr0tWnFQ&oe=678A6B65)
 
 I am on an exciting journey to become a full-stack developer, focusing on mastering **MongoDB**, **Express.js**, **React.js**, and **Node.js**. I love experimenting with code and creating innovative solutions for web development challenges.
 
@@ -70,7 +70,6 @@ I believe in lifelong learning and am always eager to explore new technologies a
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan)](https://github.com/anuraghazra/github-readme-stats)
 - ![GitHub streak stats](https://streak-stats.demolab.com/?user=niloyahmadramjan)
 - ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/niloyahmadramjan/contributions?format=svg&private=false)
-- ![GitHub metrics](https://metrics.lecoq.io/niloyahmadramjan)
 
 ---
 
