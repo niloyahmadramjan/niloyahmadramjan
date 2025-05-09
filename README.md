@@ -1,4 +1,4 @@
-![Profile Picture]([https://scontent.fkul19-2.fna.fbcdn.net/v/t39.30808-6/430612317_1772042756609820_1714169358428752605_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=CvEpCElg0sEQ7kNvgEZ3OTs&_nc_zt=23&_nc_ht=scontent.fkul19-2.fna&_nc_gid=APGXLANPI9HxlWXEt-f4Jo1&oh=00_AYB_VtwvrHStg0I5ZfuXQRkys9Uxq_DAq5_9Evlr0tWnFQ&oe=678A6B65](https://i.ibb.co/SwmXRJ6g/FB-IMG-1721747668011.jpg))
+![Profile Picture](https://i.ibb.co/SwmXRJ6g/FB-IMG-1721747668011.jpg))
 
 ### Hi there 👋, I'm Ramjan
 #### Junior MERN Stack Developer | Passionate About Web Development
