@@ -1,6 +1,5 @@
+<h1 align="center">Hi There 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 
-
-<h1 align="center">Hi there 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 <h3 align="center">💻 Junior MERN Stack Developer | Passionate About Web Development</h3>
 
 ---
@@ -11,40 +10,68 @@
 
 ---
 
+### 💡 About Me
+I'm a **MERN Stack Developer** who loves building full-stack web apps with clean UI, fast performance, and real-world functionality. I focus on writing readable code, shipping features fast, and solving meaningful problems.
+
+> "Engineer of user experience. Turning ideas into fast, responsive, and accessible web solutions."
+
+```javascript
+const ramjan = {
+  pronouns: "he" | "him",
+  code: ["HTML", "CSS", "JavaScript", "React", "Firebase", "Node.js", "Express.js", "MongoDB"],
+  tools: ["Vite", "Redux", "Tailwind CSS", "Postman", "GitHub", "Netlify", "Render", "Firebase Hosting"],
+  architecture: ["REST API", "MVC Pattern", "Component-Based Architecture"],
+  techCommunities: {
+    contributor: "Open Source Projects",
+    learner: "Programming Hero Community",
+    mentor: "Junior Web Developers"
+  },
+  challenge: "Currently sharpening full-stack projects and building scalable web apps with MERN stack"
+}
+```
+
+---
+
 ### 🔧 Tech Stack
 
 #### 🌐 Frontend:
 - HTML5 | CSS3 | Tailwind CSS | JavaScript | React.js
 
-#### 🖥️ Backend:
+#### 💻 Backend:
 - Node.js | Express.js
 
-#### 🛢️ Database:
+#### 🐣 Database:
 - MongoDB
 
-#### 🛠 Tools:
-- Git | GitHub | VS Code | Postman
+#### 🛠️ Tools:
+- Git | GitHub | VS Code | Postman | Firebase Hosting | Netlify | Render
 
 ---
 
-### 🚀 Current Focus
-- 📚 Deep dive into React and backend APIs
-- 🧩 Collaborating on MERN projects
-- 🌍 Exploring scalable architectures
+### 🚀 Currently Working On
+- Secure, role-based applications with login tracking & analytics
+- Admin dashboards with RESTful API integrations
+
+---
+
+### 😍 Passionate About
+- Clean design, responsive UI, fast UX
+- Writing scalable backend APIs
+- Collaborative development & team learning
 
 ---
 
 ### 🤝 Looking to Collaborate On
 - 🔓 Open Source MERN stack projects
-- 🎓 Learning-focused beginner projects
-- 📦 Full-stack apps with dynamic UI/UX
+- 🎓 Beginner-friendly full-stack apps
+- 📆 Real-world projects with dynamic frontend/backend
 
 ---
 
-### 🛠️ Currently Learning
+### 💡 Currently Learning
 - ⚛️ Advanced React Patterns
 - 🗂 REST API & Authentication
-- 📈 MongoDB Aggregation & Optimization
+- 📊 MongoDB Aggregation & Optimization
 
 ---
 
@@ -55,8 +82,24 @@
 
 ---
 
-### 📫 Connect With Me
+### 💎 My Toolbox
 
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)
+![Express.js](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&color=000000)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![Firebase](https://img.shields.io/badge/Auth-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
+![Vite](https://img.shields.io/badge/Build-Vite-informational?style=flat&logo=vite&color=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/UI-TailwindCSS-informational?style=flat&logo=tailwind-css&color=06B6D4)
+![Netlify](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![Render](https://img.shields.io/badge/Deploy-Render-informational?style=flat&logo=render&color=00979D)
+
+---
+
+### 📞 Connect With Me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloyahmadramjan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloyahmadramjan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niloyahmadramjan)
@@ -75,11 +118,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=radical" />
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloyahmadramjan&theme=radical" />
+  
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=radical" />
 
 ---
 
@@ -88,9 +131,31 @@
 
 ---
 
-### 🎖️ Featured Projects *(Optional: Add project cards here)*
-- 📌 [Project Name](GitHub Repo Link) — Description and tech used
+### 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/niloyahmadramjan/surplusshare-clients">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=surplusshare-clients&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/niloyahmadramjan/hobbyhub-clients">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=hobbyhub-clients&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/niloyahmadramjan/EduEcho-clients">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=EduEcho-clients&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/niloyahmadramjan/Jobs-Track02">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=Jobs-Track02&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-Thanks for stopping by! Let’s connect and create something amazing. 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Banner" />
+</p>
+
+---
+
+Thanks for stopping by! Let’s connect and build something amazing ✨
