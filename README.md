@@ -1,4 +1,4 @@
-![Profile Picture](https://i.ibb.co/fGXzjmqK/IMG-9196.jpg)
+
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 <h3 align="center">💻 Junior MERN Stack Developer | Passionate About Web Development</h3>
