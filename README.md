@@ -1,75 +1,96 @@
-![Profile Picture](https://i.ibb.co/SwmXRJ6g/FB-IMG-1721747668011.jpg))
+![Profile Picture](https://i.ibb.co/fGXzjmqK/IMG-9196.jpg)
 
-### Hi there 👋, I'm Ramjan
-#### Junior MERN Stack Developer | Passionate About Web Development
-
-I am on an exciting journey to become a full-stack developer, focusing on mastering **MongoDB**, **Express.js**, **React.js**, and **Node.js**. I love experimenting with code and creating innovative solutions for web development challenges.
+<h1 align="center">Hi there 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
+<h3 align="center">💻 Junior MERN Stack Developer | Passionate About Web Development</h3>
 
 ---
 
-### 🔧 Skills
-- **Front-End Development**: HTML, CSS, Tailwind CSS, React.js, JavaScript
-- **Back-End Development**: Node.js, Express.js
-- **Database Management**: MongoDB
-- **Version Control**: Git & GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+MERN+Stack+Developer;Open+Source+Enthusiast;Love+JavaScript+%26+React;Node+%7C+Express+%7C+MongoDB&center=true&width=440&height=45&color=00A9FF&vCenter=true&size=20" />
+</p>
+
+---
+
+### 🔧 Tech Stack
+
+#### 🌐 Frontend:
+- HTML5 | CSS3 | Tailwind CSS | JavaScript | React.js
+
+#### 🖥️ Backend:
+- Node.js | Express.js
+
+#### 🛢️ Database:
+- MongoDB
+
+#### 🛠 Tools:
+- Git | GitHub | VS Code | Postman
 
 ---
 
 ### 🚀 Current Focus
-- **Learning:** Enhancing my skills in the MERN stack.
-- **Building:** Developing responsive, dynamic websites and robust APIs.
-- **Collaborating:** Seeking opportunities to work on projects with fellow developers.
+- 📚 Deep dive into React and backend APIs
+- 🧩 Collaborating on MERN projects
+- 🌍 Exploring scalable architectures
 
 ---
 
-### 🤝 Collaboration Interests
-- **Open Source Projects:** Contributing to MERN stack-based projects.
-- **Beginner-Friendly Projects:** Partnering to create projects for learning and growth.
-- **Front-End Mastery:** Crafting dynamic and responsive interfaces with React.js.
-- **Back-End Expertise:** Building and optimizing server-side logic using Node.js and Express.js.
+### 🤝 Looking to Collaborate On
+- 🔓 Open Source MERN stack projects
+- 🎓 Learning-focused beginner projects
+- 📦 Full-stack apps with dynamic UI/UX
 
 ---
 
 ### 🛠️ Currently Learning
-- React.js: Best practices for building dynamic user interfaces.
-- Node.js: Exploring backend development and server-side logic.
-- MongoDB: Efficient database design and management.
+- ⚛️ Advanced React Patterns
+- 🗂 REST API & Authentication
+- 📈 MongoDB Aggregation & Optimization
 
 ---
 
 ### 💬 Ask Me About
-- Building engaging GitHub profiles.
-- Web development fundamentals (HTML, CSS, JavaScript, Tailwind CSS).
-- My journey in becoming a MERN stack developer.
+- Web development fundamentals
+- Building responsive React interfaces
+- Structuring scalable backend APIs
 
 ---
 
 ### 📫 Connect With Me
-- **Email:** [niloyahmadramjan@gmail.com](mailto:niloyahmadramjan@gmail.com)
-- **Facebook:** [Niloy Ahmad Ramjan](https://www.facebook.com/niloyahmadramjan)
-- **GitHub:** [Niloy Ahmad Ramjan](https://github.com/niloyahmadramjan)
-- **LinkedIn:** [Niloy Ahmad Ramjan](https://www.linkedin.com/in/niloyahmadramjan/)
-- **Instagram:** [niloyahmadramjan](https://www.instagram.com/niloyahmadramjan)
-- **Twitter:** [niloyahmadramjan](https://twitter.com/niloyahmadramjan)
-- **CodePen:** [niloyahmadramjan](https://codepen.io/Niloy-Ahmad-Ramjan
-)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloyahmadramjan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloyahmadramjan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niloyahmadramjan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/niloyahmadramjan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niloyahmadramjan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niloyahmadramjan)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Niloy-Ahmad-Ramjan)
 
 ---
 
-### 🌟 Fun Fact
-I believe in lifelong learning and am always eager to explore new technologies and ideas.
-
----
-
-### 🎖️ Achievements
-[![Trophy](https://github-profile-trophy.vercel.app/?username=niloyahmadramjan)](https://github.com/ryo-ma/github-profile-trophy)
+### 🌟 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niloyahmadramjan&theme=algolia&margin-w=15&no-frame=true" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloyahmadramjan&theme=radical" />
+</p>
+
 ---
 
-Thank you for visiting my profile! Let’s connect and collaborate to build something amazing. 😊
+### 🎯 Fun Fact
+> I believe in lifelong learning and constantly exploring new ideas & technologies.
 
+---
+
+### 🎖️ Featured Projects *(Optional: Add project cards here)*
+- 📌 [Project Name](GitHub Repo Link) — Description and tech used
+
+---
+
+Thanks for stopping by! Let’s connect and create something amazing. 🚀
