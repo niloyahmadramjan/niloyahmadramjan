@@ -1,12 +1,20 @@
 <h1 align="center">Hi There 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 
 <h3 align="center">💻 Junior MERN Stack Developer | Passionate About Web Development</h3>
+<p align="center">
+📍 Malaysia | ✉️ niloyahmadramjan@gmail.com | 💬 
+<a href="https://wa.me/601135451398" target="_blank">WhatsApp: +60-1135451398</a>
+
+</p>
+
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Junior+MERN+Stack+Developer;Open+Source+Enthusiast;Love+JavaScript+%26+React;Node+%7C+Express+%7C+MongoDB&center=true&width=440&height=45&color=00A9FF&vCenter=true&size=20" />
 </p>
+
+
 
 ---
 
@@ -103,9 +111,6 @@ const ramjan = {
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloyahmadramjan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloyahmadramjan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niloyahmadramjan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/niloyahmadramjan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niloyahmadramjan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niloyahmadramjan)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Niloy-Ahmad-Ramjan)
 
 ---
@@ -131,24 +136,34 @@ const ramjan = {
 
 ---
 
-### 🏆 Featured Projects
+## 📌 Pinned Repositories  
 
-<p align="center">
-  <a href="https://github.com/niloyahmadramjan/surplusshare-clients">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=surplusshare-clients&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/niloyahmadramjan/hobbyhub-clients">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=hobbyhub-clients&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/niloyahmadramjan/EduEcho-clients">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=EduEcho-clients&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/niloyahmadramjan/Jobs-Track02">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niloyahmadramjan&repo=Jobs-Track02&theme=tokyonight" />
-  </a>
-</p>
+###  SurplusShare - Local Food Waste Reduction Platform 
+**Description:** SurplusShare is a MERN stack-based web application built to help reduce food waste by enabling restaurants to donate surplus food, charities to request and pick up donations, and general users to browse or participate in the platform. The platform also features secure role-based access, payment processing, review systems, and insightful analytics..  
+
+**Technologies:** React.js, React Router, Tailwind CSS, DaisyUI, Firebase Auth & Hosting, MongoDB, Express.js, Node.js, TanStack Query, Stripe Payment Gateway, WT Token Authentication, SweetAlert2 / React Toastify, Recharts for data visualization, Axios with Interceptors, React Hook Form, Swiper.js (Banner) 
+
+**Live Link:** [surplusshare](https://surplusshare-bd.web.app/)  
+
+---
+
+###  EduEcho - Knowledge Sharing Platform
+**Description:** A fully responsive MERN-stack web application for students and learners to post, explore, and discuss articles — inspired by platforms like Dev.to and Medium.
+
+**Technologies:** React.js (Frontend framework), TailwindCSS (Styling), DaisyUI (UI Components), Firebase Auth (Email + Google authentication), Axios (API requests), React Router (Client-side routing), Framer Motion (Animations), SweetAlert2 (Confirmation modals), Toastify (Notifications), MongoDB (Article/comment storage), Express.js (Backend API), Node.js (Server environment)
+
+**Live Link:** [Eduecho](https://eduecho-bd.web.app)  
+
+---
+
+### HobbyHub – A Local Hobby Group Organizer
+**Description:** HobbyHub is a vibrant platform designed to help individuals connect through shared hobbies and passions. Whether it’s reading, painting, hiking, or gaming — users can join existing hobby groups or create their own. The goal is to foster real-world social engagement through online group organization.
+
+**Technologies:** React 19, Vite, Tailwind CSS, DaisyUI, React Router v7, React Icons, React Toastify, React Awesome Reveal, Firebase, Express.js, MongoDB Atlas, .env
+
+**Live Link:** [hobbyhub](https://hobbyhub-a11.web.app/)  
+
+---
 
 ---
 
