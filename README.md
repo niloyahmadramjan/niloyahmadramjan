@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFCIjAWpMueAg/profile-displaybackgroundimage-shrink_350_1400/B56ZbQskYZGoAY-/0/1747258067453?e=1757548800&v=beta&t=8dSfWd_vh8_ZAKrMjEkqnlnspio4RAlB6_wHYQbkBRY" alt="Banner" width="100%" />
+
 <h1 align="center">Hi There 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 
 <h3 align="center">💻 Junior MERN Stack Developer | Passionate About Web Development</h3>
@@ -127,7 +130,10 @@ const ramjan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloyahmadramjan&theme=radical" />
   
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=radical" />
+
+![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niloyahmadramjan&theme=tokyonight)
 
 ---
 
