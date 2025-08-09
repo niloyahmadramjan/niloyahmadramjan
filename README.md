@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGw-8MSM07aXg/profile-displaybackgroundimage-shrink_350_1400/B56ZiKpeS8H0AY-/0/1754672786419?e=1757548800&v=beta&t=UzA7JFR4EaP2rh6VG_tE6ypNlwUcmZnv_H0p0dJTTKI" alt="Banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF3Eo5IddgcsA/profile-displaybackgroundimage-shrink_350_1400/B56ZiNxWmjHcAc-/0/1754725183212?e=1757548800&v=beta&t=4zfiphLzSrg-IejIBjQH2aVmlcBXsfht1Zh0_mkmXIU" alt="Banner" width="100%" />
 
 <h1 align="center">Hi There 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 
