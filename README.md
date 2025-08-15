@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/Q3mgdwbr/profilepic-11zon.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/xtCF8zdR/linkedin-banner-niloy.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi There 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 
