@@ -118,22 +118,47 @@ const ramjan = {
 
 ---
 
-### 🌟 GitHub Trophies
+<!-- 🌟 GitHub Stats Section - Optimized & Fixed -->
+<div align="center">
+
+## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Analytics
+  
+<!-- Dynamic Stats Grid with Cache Busting -->
+<p align="center">
+  <a href="https://github.com/niloyahmadramjan">
+    <!-- Main Stats with forced cache refresh -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=86400&random=1" />
+    <!-- Top Languages with proper exclusion -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  </a>
+</p>
+
+<!-- Streak Stats with Dual Source Fallback -->
+<p align="center">
+  <a href="https://github.com/niloyahmadramjan">
+    <img src="https://streak-stats.demolab.com?user=niloyahmadramjan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400"
+         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=niloyahmadramjan&theme=radical&hide_border=true&background=00000000';" 
+         alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- Activity Graph with Fallback -->
+<p align="center">
+  <a href="https://github.com/niloyahmadramjan">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=niloyahmadramjan&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=86400" 
+         onerror="this.onerror=null;this.src='https://activity-graph.herokuapp.com/graph?username=niloyahmadramjan&theme=react-dark&bg_color=00000000&hide_border=true';" 
+         alt="Activity Graph" />
+  </a>
+</p>
+
+<!-- Trophy Case with Error Handling -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=niloyahmadramjan&theme=algolia&margin-w=15&no-frame=true" />
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloyahmadramjan&theme=radical" />
-  
-</p>
 
-![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niloyahmadramjan&theme=tokyonight)
+</div>
 
 ---
 
@@ -170,8 +195,12 @@ const ramjan = {
 **Live Link:** [hobbyhub](https://hobbyhub-a11.web.app/)  
 
 ---
-### 👀 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/niloyahmadramjan/count.svg)
+<!-- Profile Views Counter with Fallback -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niloyahmadramjan&label=Profile+Views&color=0ABAB5&style=flat" 
+       onerror="this.onerror=null;this.src='https://visitor-badge.glitch.me/badge?page_id=niloyahmadramjan.niloyahmadramjan';" 
+       alt="Profile Views" /> 
+</p>
 
 
 ---
