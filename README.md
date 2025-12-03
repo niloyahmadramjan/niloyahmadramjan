@@ -1,12 +1,12 @@
 <!-- Banner -->
-<img src="[https://i.ibb.co/xtCF8zdR/linkedin-banner-niloy.png](https://i.ibb.co/VWG2d6h9/technology-computer-business-coding-office-person-development-working-developer-datum-lapt-1064589-2.jpg)" alt="Banner" width="100%" />
+<img src="https://t4.ftcdn.net/jpg/08/01/68/47/360_F_801684730_0NM8uRm7ohWq0jxQ3Jh6CCvn6dhyNuPh.jpg" alt="Banner" width="100%" />
 
 <h1 align="center">Hi There 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
 
 <h3 align="center">💻 Junior MERN Stack Developer | Passionate About Web Development</h3>
 <p align="center">
 📍 Malaysia | ✉️ niloyahmadramjan@gmail.com | 💬 
-<a href="https://wa.me/601135451398" target="_blank">WhatsApp: +60-1135451398</a>
+<!-- <a href="https://wa.me/601135451398" target="_blank">WhatsApp: +60-1135451398</a> -->
 
 </p>
 
