@@ -1,214 +1,230 @@
 <!-- Banner -->
-<img src="https://t4.ftcdn.net/jpg/08/01/68/47/360_F_801684730_0NM8uRm7ohWq0jxQ3Jh6CCvn6dhyNuPh.jpg" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B%2C%20I%27m%20Ramjan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20Drakilo&descAlignY=58&descSize=20" width="100%" />
 
-<h1 align="center">Hi There 👋, I'm <span style="color:#00A9FF">Ramjan</span></h1>
-
-<h3 align="center">💻 Junior MERN Stack Developer | Passionate About Web Development</h3>
-<p align="center">
-📍 Malaysia | ✉️ niloyahmadramjan@gmail.com | 💬 
-<!-- <a href="https://wa.me/601135451398" target="_blank">WhatsApp: +60-1135451398</a> -->
-
-</p>
-
-
----
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+MERN+Stack+Developer;Open+Source+Enthusiast;Love+JavaScript+%26+React;Node+%7C+Express+%7C+MongoDB&center=true&width=440&height=45&color=00A9FF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A9FF&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+MERN+Developer;Next.js+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Founder+%40+Drakilo+%F0%9F%9A%80;Building+SaaS+Products+%26+Web+Solutions;Open+Source+Enthusiast+%E2%9C%A8" />
 </p>
 
-
+<p align="center">
+  📍 Bangladesh &nbsp;|&nbsp; ✉️ niloyahmadramjan@gmail.com
+</p>
 
 ---
 
 ### 💡 About Me
-I'm a **MERN Stack Developer** who loves building full-stack web apps with clean UI, fast performance, and real-world functionality. I focus on writing readable code, shipping features fast, and solving meaningful problems.
 
-> "Engineer of user experience. Turning ideas into fast, responsive, and accessible web solutions."
+I'm **Ramjan** — a **Full Stack Developer** and **Founder of [Drakilo](https://drakilo.com)**, a startup building production-ready SaaS products and offering custom web development services for clients. I love building full-stack web apps with clean UI, fast performance, and real-world functionality. I focus on writing readable, scalable code and solving meaningful problems.
 
-```javascript
+> *"Engineer of user experience. Turning ideas into fast, responsive, and accessible web solutions."*
+
+```typescript
 const ramjan = {
-  pronouns: "he" | "him",
-  code: ["HTML", "CSS", "JavaScript", "React", "Firebase", "Node.js", "Express.js", "MongoDB"],
-  tools: ["Vite", "Redux", "Tailwind CSS", "Postman", "GitHub", "Netlify", "Render", "Firebase Hosting"],
-  architecture: ["REST API", "MVC Pattern", "Component-Based Architecture"],
+  pronouns  : "he/him",
+  role      : "Full Stack Developer & Founder @ Drakilo",
+  location  : "Bangladesh 🇧🇩",
+
+  code      : ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js",
+               "Node.js", "Express.js", "MongoDB"],
+
+  tools     : ["Tailwind CSS", "Framer Motion", "Redis", "Nginx", "PM2",
+               "Postman", "Git", "GitHub", "Firebase", "Netlify", "Render"],
+
+  architecture : ["REST API", "MVC Pattern", "Multi-tenant SaaS", "Component-Based Architecture"],
+
   techCommunities: {
-    contributor: "Open Source Projects",
-    learner: "Programming Hero Community",
-    mentor: "Junior Web Developers"
+    contributor : "Open Source Projects",
+    learner     : "Programming Hero Community",
+    mentor      : "Junior Web Developers",
   },
-  challenge: "Currently sharpening full-stack projects and building scalable web apps with MERN stack"
-}
+
+  challenge : "Building production-ready SaaS products and scalable web solutions",
+  motto     : "Ship fast. Ship clean. Ship real.",
+};
 ```
 
 ---
 
 ### 🔧 Tech Stack
 
-#### 🌐 Frontend:
-- HTML5 | CSS3 | Tailwind CSS | JavaScript | React.js
+#### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 💻 Backend:
-- Node.js | Express.js
+#### 💻 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🐣 Database:
-- MongoDB
+#### 🗄️ Database & Cache
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### 🛠️ Tools:
-- Git | GitHub | VS Code | Postman | Firebase Hosting | Netlify | Render
+#### 🔐 Auth & Payment
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-FF6600?style=for-the-badge&logo=stripe&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+#### 🛠️ DevOps & Tools
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ### 🚀 Currently Working On
-- Secure, role-based applications with login tracking & analytics
-- Admin dashboards with RESTful API integrations
+
+- 💈 **[Salon Desk](https://www.salondesk.store)** — Multi-tenant Salon Management SaaS with Redis session control, queue system, and subscription payments
+- 🌐 **Drakilo Company Website** — Next.js, Tailwind CSS, Framer Motion, MongoDB
 
 ---
 
 ### 😍 Passionate About
-- Clean design, responsive UI, fast UX
-- Writing scalable backend APIs
-- Collaborative development & team learning
+
+- Clean design, responsive UI, and blazing-fast UX
+- Building and shipping production-grade SaaS products
+- Writing scalable backend APIs and multi-tenant architectures
+- Collaborative development and helping junior developers grow
 
 ---
 
 ### 🤝 Looking to Collaborate On
-- 🔓 Open Source MERN stack projects
+
+- 🔓 Open Source MERN / Next.js projects
 - 🎓 Beginner-friendly full-stack apps
-- 📆 Real-world projects with dynamic frontend/backend
+- 📆 Real-world SaaS products with dynamic frontend/backend
 
 ---
 
 ### 💡 Currently Learning
-- ⚛️ Advanced React Patterns
-- 🗂 REST API & Authentication
-- 📊 MongoDB Aggregation & Optimization
+
+- 🟦 **TypeScript** — deep dive into advanced types, generics, and type safety
+- ⚛️ Advanced React & Next.js patterns
+- 📊 MongoDB Aggregation & performance optimization
+- 🔒 Advanced authentication & security patterns
 
 ---
 
 ### 💬 Ask Me About
-- Web development fundamentals
-- Building responsive React interfaces
-- Structuring scalable backend APIs
+
+- MERN stack & full-stack architecture
+- Building multi-tenant SaaS systems
+- REST API design & JWT authentication
+- Building responsive React / Next.js interfaces
 
 ---
 
-### 💎 My Toolbox
+### 🎯 Fun Fact
 
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)
-![Express.js](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&color=000000)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
-![Firebase](https://img.shields.io/badge/Auth-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
-![Vite](https://img.shields.io/badge/Build-Vite-informational?style=flat&logo=vite&color=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/UI-TailwindCSS-informational?style=flat&logo=tailwind-css&color=06B6D4)
-![Netlify](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![Render](https://img.shields.io/badge/Deploy-Render-informational?style=flat&logo=render&color=00979D)
+> I believe in lifelong learning — constantly exploring new ideas, technologies, and ways to ship better products faster.
 
 ---
 
-### 📞 Connect With Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloyahmadramjan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloyahmadramjan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niloyahmadramjan)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Niloy-Ahmad-Ramjan)
+## 📌 Featured Projects
+
+### 🥗 SurplusShare — Local Food Waste Reduction Platform
+
+A MERN stack web application that helps reduce food waste by enabling restaurants to donate surplus food, charities to request pickups, and general users to browse or participate. Features secure role-based access, payment processing, review systems, and insightful analytics.
+
+**Technologies:** `React.js` `React Router` `Tailwind CSS` `DaisyUI` `Firebase Auth & Hosting` `MongoDB` `Express.js` `Node.js` `TanStack Query` `Stripe` `JWT` `SweetAlert2` `React Toastify` `Recharts` `Axios` `React Hook Form` `Swiper.js`
+
+🌐 **Live:** [surplusshare-bd.web.app](https://surplusshare-bd.web.app/)
 
 ---
 
-<!-- 🌟 GitHub Stats Section - Optimized & Fixed -->
+### 📚 EduEcho — Knowledge Sharing Platform
+
+A fully responsive MERN-stack web application for students and learners to post, explore, and discuss articles — inspired by platforms like Dev.to and Medium.
+
+**Technologies:** `React.js` `TailwindCSS` `DaisyUI` `Firebase Auth` `Axios` `React Router` `Framer Motion` `SweetAlert2` `React Toastify` `MongoDB` `Express.js` `Node.js`
+
+🌐 **Live:** [eduecho-bd.web.app](https://eduecho-bd.web.app)
+
+---
+
+### 🎯 HobbyHub — Local Hobby Group Organizer
+
+A vibrant platform for individuals to connect through shared hobbies and passions — reading, painting, hiking, gaming, and more. Users can join existing groups or create their own to foster real-world social engagement.
+
+**Technologies:** `React 19` `Vite` `Tailwind CSS` `DaisyUI` `React Router v7` `React Icons` `React Toastify` `React Awesome Reveal` `Firebase` `Express.js` `MongoDB Atlas`
+
+🌐 **Live:** [hobbyhub-a11.web.app](https://hobbyhub-a11.web.app/)
+
+---
+
+## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> GitHub Analytics
+
 <div align="center">
 
-## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Analytics
-  
-<!-- Dynamic Stats Grid with Cache Busting -->
-<p align="center">
+<p>
   <a href="https://github.com/niloyahmadramjan">
-    <!-- Main Stats with forced cache refresh -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=86400&random=1" />
-    <!-- Top Languages with proper exclusion -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloyahmadramjan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=86400" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahmadramjan&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,anuraghazra.github.io" />
   </a>
 </p>
 
-<!-- Streak Stats with Dual Source Fallback -->
-<p align="center">
+<p>
   <a href="https://github.com/niloyahmadramjan">
     <img src="https://streak-stats.demolab.com?user=niloyahmadramjan&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400"
-         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=niloyahmadramjan&theme=radical&hide_border=true&background=00000000';" 
+         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=niloyahmadramjan&theme=radical&hide_border=true&background=00000000';"
          alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- Activity Graph with Fallback -->
-<p align="center">
+<p>
   <a href="https://github.com/niloyahmadramjan">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=niloyahmadramjan&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=86400" 
-         onerror="this.onerror=null;this.src='https://activity-graph.herokuapp.com/graph?username=niloyahmadramjan&theme=react-dark&bg_color=00000000&hide_border=true';" 
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=niloyahmadramjan&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=86400"
+         onerror="this.onerror=null;this.src='https://activity-graph.herokuapp.com/graph?username=niloyahmadramjan&theme=react-dark&bg_color=00000000&hide_border=true';"
          alt="Activity Graph" />
   </a>
 </p>
 
-<!-- Trophy Case with Error Handling -->
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=niloyahmadramjan&theme=algolia&margin-w=15&no-frame=true" />
 </p>
-
-
 
 </div>
 
 ---
 
-### 🎯 Fun Fact
-> I believe in lifelong learning and constantly exploring new ideas & technologies.
+### 📞 Connect With Me
 
----
+<div align="center">
 
-## 📌 Pinned Repositories  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niloyahmadramjan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloyahmadramjan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niloyahmadramjan)
+[![Drakilo](https://img.shields.io/badge/Drakilo-FF6600?style=for-the-badge&logo=vercel&logoColor=white)](https://drakilo.com)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Niloy-Ahmad-Ramjan)
 
-###  SurplusShare - Local Food Waste Reduction Platform 
-**Description:** SurplusShare is a MERN stack-based web application built to help reduce food waste by enabling restaurants to donate surplus food, charities to request and pick up donations, and general users to browse or participate in the platform. The platform also features secure role-based access, payment processing, review systems, and insightful analytics..  
+<br/>
 
-**Technologies:** React.js, React Router, Tailwind CSS, DaisyUI, Firebase Auth & Hosting, MongoDB, Express.js, Node.js, TanStack Query, Stripe Payment Gateway, WT Token Authentication, SweetAlert2 / React Toastify, Recharts for data visualization, Axios with Interceptors, React Hook Form, Swiper.js (Banner) 
+<img src="https://komarev.com/ghpvc/?username=niloyahmadramjan&label=Profile+Views&color=0ABAB5&style=for-the-badge"
+     onerror="this.onerror=null;this.src='https://visitor-badge.glitch.me/badge?page_id=niloyahmadramjan.niloyahmadramjan';"
+     alt="Profile Views" />
 
-**Live Link:** [surplusshare](https://surplusshare-bd.web.app/)  
-
----
-
-###  EduEcho - Knowledge Sharing Platform
-**Description:** A fully responsive MERN-stack web application for students and learners to post, explore, and discuss articles — inspired by platforms like Dev.to and Medium.
-
-**Technologies:** React.js (Frontend framework), TailwindCSS (Styling), DaisyUI (UI Components), Firebase Auth (Email + Google authentication), Axios (API requests), React Router (Client-side routing), Framer Motion (Animations), SweetAlert2 (Confirmation modals), Toastify (Notifications), MongoDB (Article/comment storage), Express.js (Backend API), Node.js (Server environment)
-
-**Live Link:** [Eduecho](https://eduecho-bd.web.app)  
-
----
-
-### HobbyHub – A Local Hobby Group Organizer
-**Description:** HobbyHub is a vibrant platform designed to help individuals connect through shared hobbies and passions. Whether it’s reading, painting, hiking, or gaming — users can join existing hobby groups or create their own. The goal is to foster real-world social engagement through online group organization.
-
-**Technologies:** React 19, Vite, Tailwind CSS, DaisyUI, React Router v7, React Icons, React Toastify, React Awesome Reveal, Firebase, Express.js, MongoDB Atlas, .env
-
-**Live Link:** [hobbyhub](https://hobbyhub-a11.web.app/)  
-
----
-<!-- Profile Views Counter with Fallback -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niloyahmadramjan&label=Profile+Views&color=0ABAB5&style=flat" 
-       onerror="this.onerror=null;this.src='https://visitor-badge.glitch.me/badge?page_id=niloyahmadramjan.niloyahmadramjan';" 
-       alt="Profile Views" /> 
-</p>
-
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
 
----
-
-Thanks for stopping by! Let’s connect and build something amazing ✨
+<p align="center">
+  Thanks for stopping by! Let's connect and build something amazing ✨
+</p>
